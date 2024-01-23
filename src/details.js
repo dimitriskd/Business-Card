@@ -12,3 +12,4 @@ const userData = {
 };
 
 export default userData;
+//The user details are completly made up :P
