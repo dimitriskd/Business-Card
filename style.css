@@ -1,0 +1,107 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+    background-color: #23252c;
+    font-family: "Inter", sans-serif;
+}
+
+.App {
+    margin: auto;
+    width: 500px;
+    background-color: #1a1b21;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.info{
+    margin-top: 3rem;
+    width: inherit;
+    color: white;
+    text-align: center;
+}
+
+.info > h1{
+    font-size: xx-large;
+    margin-bottom: 5px;
+}
+
+.info--photo{
+    height: 500px;
+    width: inherit;
+    object-fit: cover;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.info > h2 {
+    font-weight: 500;
+    color: #e66007;
+}
+
+.info > p > a{
+    color: white;
+    text-decoration: none;
+}
+
+.info--links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.info--links--btn{
+    text-decoration: none;
+    padding: 0.8rem 2.5rem;
+    gap: .8rem;
+    font-weight: 700;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    color: #23252c;
+    font-size: large;
+    background-color: aliceblue;
+}
+
+.info--link--mail{
+    background-color: #ffffff;
+    color: #374151;
+}
+.info--link--linkedin{
+    background-color: #5093e2;
+    color: white;
+}
+
+.info--link--icon{
+    height: 30px;
+}
+
+.bio{
+    color: white;
+    padding: 25px 30px;
+}
+
+.bio--title {
+    font-size: 2rem;
+    margin-bottom: 0;
+    color: #e66007;
+}
+
+.bio--description {
+    font-size: 1.1rem;
+    margin-top: .5rem;
+}
+
+.footer {
+    background-color: #131418;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 0 0 10px 10px;
+}
+
+.footer--icon{
+    height: 60px;
+    padding: 20px;
+    filter: brightness(0) invert(1);
+}
