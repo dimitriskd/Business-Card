@@ -1,7 +1,7 @@
-import Twitter from "./assets/twitter-square-brands.svg";
-import Facebook from "./assets/facebook-square-brands.svg";
-import Instagram from "./assets/instagram-square-brands.svg";
-import Github from "./assets/github-square-brands.svg";
+import Twitter from "../assets/twitter-square-brands.svg";
+import Facebook from "../assets/facebook-square-brands.svg";
+import Instagram from "../assets/instagram-square-brands.svg";
+import Github from "../assets/github-square-brands.svg";
 import userData from "./details";
 
 export default function Footer(){

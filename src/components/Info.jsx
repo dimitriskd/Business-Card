@@ -1,5 +1,5 @@
-import mailLogo from "./assets/envelope-solid.svg"
-import linkedin from "./assets/linkedin-brands.svg"
+import mailLogo from "../assets/envelope-solid.svg"
+import linkedin from "../assets/linkedin-brands.svg"
 import userData from "./details.js"
 console.log(userData);
 

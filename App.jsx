@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import Main from "./src/Main";
+import Main from "./src/components/Main";
 
 function App(){
     return (
