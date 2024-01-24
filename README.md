@@ -44,7 +44,7 @@ Follow these steps to get the project up and running on your local machine:
    npm run dev
    ```
 
-   This will launch the application locally. Open your browser and go to `http://localhost:3000` to view the business card.
+   This will launch the application locally. Open your browser and go to `http://localhost:####` to view the business card.
 
 ## Project Structure
 
