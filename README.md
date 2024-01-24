@@ -23,13 +23,13 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-business-card.git
+   git clone https://github.com/dimitriskd/Business-Card.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-business-card
+   cd business-card
    ```
 
 3. Install dependencies:
